@@ -1,0 +1,9 @@
+name: AnticheatGUISelect
+version: '${project.version}'
+main: me.thecatisbest.AnticheatGUISelect.Main
+api-version: 1.13
+description: hi
+
+commands:
+  ac:
+    description: View the Commands.
